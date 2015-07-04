@@ -12,18 +12,30 @@
 
 - title: CopperDroid
   url: http://copperdroid.isg.rhul.ac.uk/copperdroid/
-  desc: asdasdasd
-  image: /asd
+  desc: CopperDroid is an analysis framework to automatically perform
+        out-of-the-box dynamic behavioral analysis of Android
+        malware. CopperDroid uses a unified analysis to characterize low-level
+        OS-specific (e.g., writing to a file) and high-level Android-specific
+        behaviors (e.g., sending an SMS, placing a phone call). In addition,
+        CopperDroid features a stimulation technique to improve code coverage,
+        aimed at triggerring additional behaviors of interest.
+  image: /images/evil_android_bottomup.png
 
 - title: Fuzztrace
   url: https://github.com/rpaleari/fuzztrace
-  desc: asdasdasd
-  image: /asd
+  desc: I collaborate with the open source project FuzzTrace, a
+        "general-purpose" tracing tool for closed-source applications, aimed at
+        generating a concise execution trace that can be used to support the
+        fuzz-testing activity or other analyses.
+  image: /images/bisect.png
 
 - title: ud2
   url: https://github.com/ud2
-  desc: ud2 is a...
-  image: /asd
+  desc: ud2 is a github organization where <a
+        href="http://roberto.greyhats.it">@rpaleari</a> and I will release our
+        future security-related projects, our tools, and advisories for
+        vulnerability we identify.
+  image: /images/ud2.png
 
 
 
