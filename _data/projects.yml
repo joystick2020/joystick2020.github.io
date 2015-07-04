@@ -1,0 +1,30 @@
+# Projects data
+
+- title: HyperDbg
+  url: http://code.google.com/p/hyperdbg/
+  desc: HyperDbg is a kernel debugger that leverages hardware-assisted
+        virtualization. More precisely, HyperDbg is based on a minimalistic
+        hypervisor that is installed while the system runs. Compared to
+        traditional kernel debuggers (e.g., WinDbg, SoftIce, Rasta R0 Debugger)
+        HyperDbg is completely transparent to the kernel and can be used to
+        debug kernel code without the need of serial (or USB) cables.
+  image: /images/arch.png
+
+- title: CopperDroid
+  url: http://copperdroid.isg.rhul.ac.uk/copperdroid/
+  desc: asdasdasd
+  image: /asd
+
+- title: Fuzztrace
+  url: https://github.com/rpaleari/fuzztrace
+  desc: asdasdasd
+  image: /asd
+
+- title: ud2
+  url: https://github.com/ud2
+  desc: ud2 is a...
+  image: /asd
+
+
+
+
