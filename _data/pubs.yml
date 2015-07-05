@@ -1,0 +1,98 @@
+- name: cose15:accessminer
+  authors: "Aristide Fattori and Andrea Lanzi and Davide Balzarotti and Engin Kirda"
+  title: "Hypervisor-based malware protection with AccessMiner"
+  venue: "Computers &amp; Security, Pages 33 - 50, Number 0, Volume 52"
+  date: "2015"
+  bib: cose15.bib
+
+- name: ndss15:copperdroid
+  authors: "Kimberly Tam and Salahudding J. Khan and Aristide Fattori and Lorenzo Cavallaro"
+  title: "CopperDroid: Automatic Reconstruction of Android Malware Behaviors"
+  venue: "Proceedings of the Network and Distributed System Security (NDSS) Symposium"
+  address: "San Diego, California, USA"
+  date: "February, 2015"
+  pdf: ndss15.pdf
+  bib: ndss15.bib
+
+- name: eurosec14:lynxfuzzer
+  authors: "Stefano Bianchi Mazzone and Mattia Pagnozzi and Aristide Fattori and Alessandro Reina and Andrea Lanzi and Danilo Bruschi"
+  title: "Improving Mac OS X security through gray box fuzzing technique"
+  venue: "Proceedings of the 7th European Workshop on System Security (EUROSEC)"
+  address: "Amsterdam, The Netherlands"
+  date: "April, 2014"
+  pdf: eurosec14.pdf
+  bib: eurosec14.bib
+
+- name: eurosec13:copperdroid
+  authors: "Alessandro Reina and Aristide Fattori and Lorenzo Cavallaro"
+  title: "A system call-centric analysis and stimulation technique to automatically reconstruct android malware behaviors"
+  venue: "Proceedings of the 6th European Workshop on System Security (EUROSEC)"
+  address: "Prague, Czech Republic"
+  date: "April, 2013"
+  pdf: eurosec13.pdf
+  bib: eurosec13.bib
+  lec: lecture_eurosec13.pdf
+
+- name: mdm13:fattori
+  authors: "Aristide Fattori and Alessandro Reina and Andrea Gerino and Sergio Mascetti"
+  title: "On the Privacy of Real-World Friend-Finder Services"
+  venue: "Proceedings of the 14th International Conference on Mobile Data Management (MDM)"
+  address: "Milan, Italy"
+  date: "June, 2013"
+  pdf: mdm13.pdf
+  bib: mdm13.bib
+  lec: lecture_mdm13.pdf
+
+- name: acsac12:smm
+  authors: "Alessandro Reina and Aristide Fattori and Fabio Pagani and Lorenzo Cavallaro and Danilo Bruschi"
+  title: "When Hardware Meets Software: a Bulletproof Solution to Forensic Memory Acquisition"
+  venue: "Proceedings of the 28th Annual Computer Security Applications Conference (ACSAC)"
+  address: "Orlando, Florida, USA"
+  date: "December, 2012"
+  pdf: acsac12.pdf
+  bib: acsac12.bib
+
+- name: ercim12:pastebin
+  authors: "Srdjan Matic and Aristide Fattori and Danilo Bruschi and Lorenzo Cavallaro"
+  title: "Peering into the muddy waters of pastebin"
+  venue: "ERCIM News, Number 90, Volume 2012"
+  date: "2012"
+  bib: ercim12.bib
+
+- name: dimva11:mishima
+  authors: "Greg Banks and Aristide Fattori and Richard Kemmerer and Christopher Kruegel and Giovanni Vigna"
+  title: "MISHIMA: Multilateration of Internet hosts hidden using malicious fast-flux agents"
+  venue: "Proceedings of the 8th Conference on Detection of Intrusions and Malware &amp; Vulnerability Assessment (DIMVA), Amsterdam, The Netherlands"
+  date: "July, 2011"
+  pdf: dimva11.pdf
+  bib: dimva11.bib
+
+- name: raid10:hypersleuth
+  authors: "Lorenzo Martignoni and Aristide Fattori and Roberto Paleari and Lorenzo Cavallaro"
+  title: "Live and trustworthy forensic analysis of commodity production systems"
+  venue: "Proceedings of the 13th International Symposium on Recent Advances in Intrusion Detection (RAID)"
+  address: "Ottawa, Canada"
+  date: "September, 2010"
+  pdf: raid10.pdf
+  bib: raid10.bib
+
+- name: ase10:hyperdbg
+  authors: "Aristide Fattori and Roberto Paleari and Lorenzo Martignoni and Mattia Monga"
+  title: "Dynamic and transparent analysis of commodity production systems"
+  venue: "Proceedings of the 25th International Conference on Automated Software Engineering (ASE)"
+  address: "Antwerp, Belgium"
+  date: "September, 2010"
+  pdf: ase10.pdf
+  bib: ase10.bib
+  lec: lecture_ase10.pdf
+
+- name: dimva10:skype
+  authors: "Antonio Nappa and Aristide Fattori and Marco Balduzzi and Matteo Dell'Amico and Lorenzo Cavallaro"
+  title: "Take a Deep Breath: a Stealthy, Resilient and Cost-Effective Botnet Using Skype"
+  venue: "Proceedings of the 7th Conference on Detection of Intrusions and Malware &amp; Vulnerability Assessment (DIMVA)"
+  address: "Bonn, Germany"
+  date: "July, 2010"
+  pdf: dimva10.pdf
+  bib: dimva10.bib
+
+
