@@ -10,8 +10,9 @@ share: false
 
 I'm currently working as a security consultant at
 [Emaze](http://blog.emaze.net/), a small security company based in Milan,
-Italy.
-<br><br>
+Italy. My main activities include: vulnerability detection and exploitation,
+penetration testings, source code auditing, reverse engineering, and training
+courses. <br><br>
 
 I got a Ph.D. in Computer Science in 2014 from the Universit&agrave; degli
 Studi di Milano, where I mainly worked in the
