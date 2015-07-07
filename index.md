@@ -14,13 +14,13 @@ Italy. My main activities include: vulnerability detection and exploitation,
 penetration testings, source code auditing, reverse engineering, and training
 courses. <br><br>
 
-I got a Ph.D. in Computer Science in 2014 from Universit&agrave; degli Studi di
-Milano, where I mainly worked in the
+On March 2014, I got a Ph.D. in Computer Science from Universit&agrave; degli
+Studi di Milano, where I mainly worked in the
 [LaSER](http://security.di.unimi.it/)(systems and network security lab). My
 Ph.D. thesis is titled "*Hardware-assisted Virtualization and its Applications
 to Systems Security*", and is available
 [here](http://air.unimi.it/bitstream/2434/233326/2/phd_unimi_r09034.pdf)
-(official) and [here](stuff/phd.pdf) (w/ revisions).  <br><br>
+(official) and [here](stuff/phd.pdf) (w/ revisions). <br><br>
 
 I got my M.Sc. degree in Information and Communication Technologies on October
 22nd, 2010, at Universit&agrave; degli Studi di Milano, with a final grade of
