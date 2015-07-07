@@ -1,4 +1,5 @@
 ---
+title: Advisories and PoCs
 layout: page
 excerpt: "Aristide Fattori Advisories and CVEs"
 tags: [Aristide Fattori, CVE, Advisory, Exploit, Vulnerabilities]
