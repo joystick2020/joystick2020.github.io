@@ -9,7 +9,9 @@ share: false
 
 
 | Date       | Title                                                     | Id            | Link                                                                               |
-| :--------- | :------------------------------------------------------   | :------------ | :--------------------------------------------------                                |
+| :--------- | :-------------------------------------------------------- | :------------ | :--------------------------------------------------------------------------------- |
+| 13/08/2015 | _Security issue in com.apple.filesystems.ntfs_            | CVE-2015-5763 | [**Link**](https://github.com/ud2/advisories/tree/master/osx/cve-2015-5763)        |
+| 13/08/2015 | _Kernel memory leak in IOBluetoothFamily__                | CVE-2015-3780 | [**Link**](https://github.com/ud2/advisories/tree/master/osx/cve-2015-3780)        |
 | 30/06/2015 | _Type confusion in XPC service systemstatsd_              | CVE-2015-3718 | [**Link**](https://github.com/ud2/advisories/tree/master/osx/cve-2015-3718)        |
 | 30/06/2015 | _Multiple NULL pointer dereferences in IOFireWireFamily_  | CVE-2015-3707 | [**Link**](https://github.com/ud2/advisories/tree/master/osx/cve-2015-3707)        |
 | 30/06/2015 | _Multiple vulnerabilities in AppleMCCS_                   | CVE-2015-3691 | [**Link**](https://github.com/ud2/advisories/tree/master/osx/cve-2015-3691)        |
