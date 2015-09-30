@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: 
 excerpt: "Aristide Fattori homepage"
 tags: [Aristide Fattori, curriculum, computer security, security, sicurezza, LaSER, Chocolate Makers, Guard@MyLan0, hypervisor, virtualization]
 share: false
 
 ---
 
+# About
 
 I'm currently working as a security consultant at
 [Emaze](http://blog.emaze.net/), a small security company based in Milan,
 Italy. My main activities include: vulnerability detection and exploitation,
 penetration testings, source code auditing, reverse engineering, and training
 courses. <br><br>
+
+### Education
 
 On March 2014, I got a Ph.D. in Computer Science from Universit&agrave; degli
 Studi di Milano, where I mainly worked in the
@@ -27,3 +30,4 @@ I got my M.Sc. degree in Information and Communication Technologies on October
 110/110 _cum laude_. My M.Sc. thesis was titled "*Analisi di codice kernel
 tramite virtualizzazione hardware-assisted*" available
 [here](stuff/thesis2.pdf) (italian only).
+

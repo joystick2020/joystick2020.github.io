@@ -10,6 +10,7 @@ share: false
 
 | Date       | Title                                                     | Id            | Link                                                                               |
 | :--------- | :-------------------------------------------------------- | :------------ | :--------------------------------------------------------------------------------- |
+| 30/09/2015 | _Huawei password schemes: Episode 3_                      | n/a           | [**Link**](http://blog.emaze.net/2015/09/huawei-password-schemes-episode-3.html)   |
 | 13/08/2015 | _Security issue in com.apple.filesystems.ntfs_            | CVE-2015-5763 | [**Link**](https://github.com/ud2/advisories/tree/master/osx/cve-2015-5763)        |
 | 13/08/2015 | _Kernel memory leak in IOBluetoothFamily_                 | CVE-2015-3780 | [**Link**](https://github.com/ud2/advisories/tree/master/osx/cve-2015-3780)        |
 | 30/06/2015 | _Type confusion in XPC service systemstatsd_              | CVE-2015-3718 | [**Link**](https://github.com/ud2/advisories/tree/master/osx/cve-2015-3718)        |
