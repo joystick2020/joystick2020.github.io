@@ -15,8 +15,6 @@ Italy. My main activities include: vulnerability detection and exploitation,
 penetration testings, source code auditing, reverse engineering, and training
 courses. <br><br>
 
-### Education
-
 On March 2014, I got a Ph.D. in Computer Science from Universit&agrave; degli
 Studi di Milano, where I mainly worked in the
 [LaSER](http://security.di.unimi.it/)(systems and network security lab). My
