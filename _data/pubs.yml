@@ -3,6 +3,7 @@
   title: "Hypervisor-based malware protection with AccessMiner"
   venue: "Computers &amp; Security, Pages 33 - 50, Number 0, Volume 52"
   date: "2015"
+  pdf: cose15.pdf
   bib: cose15.bib
 
 - name: ndss15:copperdroid
