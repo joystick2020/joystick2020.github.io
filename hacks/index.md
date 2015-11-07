@@ -10,6 +10,7 @@ share: false
 
 | Date       | Title                                                                                                                                        | Id            |
 | :--------- | :--------------------------------------------------------                                                                                    | :------------ |
+| 06/11/2015 | [**Remote arbitrary file read on Huawei CPEs**](https://github.com/ud2/advisories/tree/master/embedded/huawei/cve-2015-7254)                 | CVE-2015-7254 |
 | 02/11/2015 | [**ZipFury: Yet Another Zip Arbitrary File Write as System**](https://github.com/ud2/advisories/tree/master/android/samsung/nocve-2015-0001) | n/a           |
 | 30/09/2015 | [**Huawei password schemes: Episode 3**](http://blog.emaze.net/2015/09/huawei-password-schemes-episode-3.html)                               | n/a           |
 | 13/08/2015 | [**Security issue in com.apple.filesystems.ntfs**](https://github.com/ud2/advisories/tree/master/osx/cve-2015-5763)                          | CVE-2015-5763 |
