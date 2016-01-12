@@ -10,6 +10,9 @@ share: false
 
 | Date       | Title                                                                                                                                        | Id              |
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------- | :-------------- |
+| 11/01/2016 | [**Multiple vulnerabilities in Samsung SRN cameras**](http://blog.emaze.net/2016/01/multiple-vulnerabilities-samsung-srn.html)               | CVE-2015-8279   |
+|            |                                                                                                                                              | CVE-2015-8280   |
+|            |                                                                                                                                              | CVE-2015-8281   |
 | 10/11/2015 | [**Remote Code Execution on DLink Cameras**](https://github.com/ud2/advisories/tree/master/embedded/dlink/nocve-2015-0002)                   | n/a             |
 | 06/11/2015 | [**Remote arbitrary file read on Huawei CPEs**](https://github.com/ud2/advisories/tree/master/embedded/huawei/cve-2015-7254)                 | CVE-2015-7254   |
 | 02/11/2015 | [**ZipFury: Yet Another Zip Arbitrary File Write as System**](https://github.com/ud2/advisories/tree/master/android/samsung/nocve-2015-0001) | n/a             |
