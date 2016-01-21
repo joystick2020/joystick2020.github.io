@@ -9,7 +9,7 @@ share: false
 
 # About
 
-I'm now working as a Software Engineer.
+I'm now working as a Software Engineer.<br><br>
 
 From 2014 to 2016 I worked as a security consultant at
 [Emaze](http://blog.emaze.net/), a small security company based in Milan,
