@@ -9,7 +9,9 @@ share: false
 
 # About
 
-I'm currently working as a security consultant at
+I'm now working as a Software Engineer.
+
+From 2014 to 2016 I worked as a security consultant at
 [Emaze](http://blog.emaze.net/), a small security company based in Milan,
 Italy. My main activities include: vulnerability detection and exploitation,
 penetration testings, source code auditing, reverse engineering, and training
