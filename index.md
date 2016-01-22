@@ -12,9 +12,9 @@ share: false
 I'm now working as a Software Engineer.<br><br>
 
 From 2014 to 2016 I worked as a security consultant at
-[Emaze](http://blog.emaze.net/), a small security company based in Milan,
-Italy. My main activities included: vulnerability detection and exploitation,
-penetration testings, source code auditing, reverse engineering, and training
+[Emaze](http://blog.emaze.net/), a security company based in Milan, Italy. My
+main activities included: vulnerability detection and exploitation, penetration
+testings, source code auditing, reverse engineering, and training
 courses. <br><br>
 
 On March 2014, I got a Ph.D. in Computer Science from Universit&agrave; degli
