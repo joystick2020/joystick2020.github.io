@@ -10,6 +10,7 @@ share: false
 
 | Date       | Title                                                                                                                                            | Id                  |
 | :--------- | :-------------------------------------------------------------------------------------------------------------------------------------------     | :------------------ |
+| 02/02/2016 | [**Exposed provider and SQLi in SecEmailSync**](https://github.com/ud2/advisories/tree/master/android/samsung/nocve-2016-0002)                   | n/a                 |
 | 20/01/2016 | [**URL filtering in kernel land: what could possibly go wrong?**](https://github.com/ud2/advisories/tree/master/android/samsung/nocve-2016-0001) | CVE-2016-2036       |
 | 11/01/2016 | [**Multiple vulnerabilities in Samsung SRN cameras**](http://blog.emaze.net/2016/01/multiple-vulnerabilities-samsung-srn.html)                   | CVE-2015-8279/80/81 |
 | 10/11/2015 | [**Remote Code Execution on DLink Cameras**](https://github.com/ud2/advisories/tree/master/embedded/dlink/nocve-2015-0002)                       | n/a                 |
