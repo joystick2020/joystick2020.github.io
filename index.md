@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title:
 excerpt: "Aristide Fattori homepage"
 tags: [Aristide Fattori, curriculum, computer security, security, sicurezza, LaSER, Chocolate Makers, Guard@MyLan0, hypervisor, virtualization]
 share: false
@@ -9,7 +9,7 @@ share: false
 
 # About
 
-I'm now working as a Software Engineer.<br><br>
+I'm now working as a Software Engineer at [Cyberhaven](http://cyberhaven.io).<br><br>
 
 From 2014 to 2016 I worked as a security consultant at
 [Emaze](http://blog.emaze.net/), a security company based in Milan, Italy. My
@@ -30,4 +30,3 @@ I got my M.Sc. degree in Information and Communication Technologies on October
 110/110 _cum laude_. My M.Sc. thesis was titled "*Analisi di codice kernel
 tramite virtualizzazione hardware-assisted*" available
 [here](stuff/thesis2.pdf) (italian only).
-
