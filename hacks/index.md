@@ -10,7 +10,8 @@ share: false
 
 | Date       | Title                                                                                                                                            | Id                  |
 | :--------- | :-------------------------------------------------------------------------------------------------------------------------------------------     | :------------------ |
-| 02/02/2016 | [**Exposed provider and SQLi in SecEmailSync**](https://github.com/ud2/advisories/tree/master/android/samsung/nocve-2016-0002)                   | n/a                 |
+| 24/02/2016 | [**URL filtering bypass in Samsung module 'secfilter'**](https://github.com/ud2/advisories/tree/master/android/samsung/nocve-2016-0003)          | CVE-2016-2567       |
+| 02/02/2016 | [**Exposed provider and SQLi in SecEmailSync**](https://github.com/ud2/advisories/tree/master/android/samsung/nocve-2016-0002)                   | CVE-2016-2565/66    |
 | 20/01/2016 | [**URL filtering in kernel land: what could possibly go wrong?**](https://github.com/ud2/advisories/tree/master/android/samsung/nocve-2016-0001) | CVE-2016-2036       |
 | 11/01/2016 | [**Multiple vulnerabilities in Samsung SRN cameras**](http://blog.emaze.net/2016/01/multiple-vulnerabilities-samsung-srn.html)                   | CVE-2015-8279/80/81 |
 | 10/11/2015 | [**Remote Code Execution on DLink Cameras**](https://github.com/ud2/advisories/tree/master/embedded/dlink/nocve-2015-0002)                       | n/a                 |
@@ -29,8 +30,3 @@ share: false
 | 22/10/2013 | [**Bluetooth USB Host Controller Unspecified Local DoS**](http://www.osvdb.org/show/osvdb/98845)                                                 | CVE-2013-5166       |
 | 22/10/2013 | [**USB Hub Controller Malformed Request Handling Local DoS**](http://www.osvdb.org/show/osvdb/98871)                                             | CVE-2013-5192       |
 | 11/05/2011 | [**Linux Kernel 2.6.38 Remote NULL Pointer Dereference**](/stuff/20110511-linux-null.txt)                                                        | CVE-2011-1927       |
-
-
-
-
-
