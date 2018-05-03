@@ -10,6 +10,7 @@ share: false
 
 | Date       | Title                                                                                                                                            | Id                  |
 | :--------- | :-------------------------------------------------------------------------------------------------------------------------------------------     | :------------------ |
+| 11/04/2016 | [**Modem interface exposed via USB**](https://github.com/ud2/advisories/tree/master/android/samsung/nocve-2016-0004)                             | CVE-2016-4030/31/32 |
 | 24/02/2016 | [**URL filtering bypass in Samsung module 'secfilter'**](https://github.com/ud2/advisories/tree/master/android/samsung/nocve-2016-0003)          | CVE-2016-2567       |
 | 02/02/2016 | [**Exposed provider and SQLi in SecEmailSync**](https://github.com/ud2/advisories/tree/master/android/samsung/nocve-2016-0002)                   | CVE-2016-2565/66    |
 | 20/01/2016 | [**URL filtering in kernel land: what could possibly go wrong?**](https://github.com/ud2/advisories/tree/master/android/samsung/nocve-2016-0001) | CVE-2016-2036       |
