@@ -26,18 +26,17 @@
   </div><!-- /.image-wrap -->
 {% endif %}
 
-<div id="main" role="main"> 
+<div id="main" role="main">
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
   <div id="index">
     {% for proj in site.data.projects %}
     <article>
-      <h3>{{ proj.title }}</h3>
+      <h3><a href={{ proj.url }}>{{ proj.title }}</a></h3>
       <p style="padding-top: 1em;">
       <img src="{{ proj.image }}" align=left style="padding-right: 1em;" />
-      {{ proj.desc }}<br /><br />
-      {{ proj.title }} can be found <a href={{ proj.url }}><b>here</b></a>.
+      {{ proj.desc | markdownify }}<br /><br />
       </p>
     </article>
     <BR CLEAR="all">
@@ -52,6 +51,6 @@
 </div><!-- /.footer-wrap -->
 
 {% include _scripts.html %}
-  
+
 </body>
 </html>

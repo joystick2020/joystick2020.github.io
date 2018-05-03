@@ -1,5 +1,34 @@
 # Projects data
 
+- title: S<sup>2</sup>E
+  url: http://s2e.systems/
+
+  desc: "I collaborated with the S<sup>2</sup>E project in the scope of the
+        [**DARPA Cyber Grand Challenge**](http://archive.darpa.mil/cybergrandchallenge/), focusing on the development of a plugin
+        for automated exploit generation. Details related to this part of the project are available [**here**](
+        https://github.com/S2E/docs/blob/master/src/Tutorials/pov.rst)."
+  image: /images/galactica.png
+
+- title: ud2
+  url: https://github.com/ud2
+  desc: ud2 is a github organization where <a
+        href="http://roberto.greyhats.it">@rpaleari</a> and I will release our
+        future security-related projects, our tools, and advisories for
+        vulnerability we identify.
+  image: /images/ud2.png
+
+- title: Fuzztrace
+  url: https://github.com/rpaleari/fuzztrace
+
+  desc: I collaborate with the open source project FuzzTrace, a
+        "general-purpose" tracing tool for closed-source applications, aimed at
+        generating a concise execution trace that can be used to support the
+        fuzz-testing activity or other analyses. More details on this project
+        can be found in the following [**blog
+        post**](/fast-coverage-analysis-for-binary/).
+
+  image: /images/bisect.png
+
 - title: HyperDbg
   url: http://code.google.com/p/hyperdbg/
   desc: HyperDbg is a kernel debugger that leverages hardware-assisted
@@ -8,6 +37,8 @@
         traditional kernel debuggers (e.g., WinDbg, SoftIce, Rasta R0 Debugger)
         HyperDbg is completely transparent to the kernel and can be used to
         debug kernel code without the need of serial (or USB) cables.
+
+        The project is unfortunately no longer maintained.
   image: /images/arch.png
 
 - title: CopperDroid
@@ -20,23 +51,3 @@
         CopperDroid features a stimulation technique to improve code coverage,
         aimed at triggerring additional behaviors of interest.
   image: /images/evil_android_bottomup.png
-
-- title: Fuzztrace
-  url: https://github.com/rpaleari/fuzztrace
-  desc: I collaborate with the open source project FuzzTrace, a
-        "general-purpose" tracing tool for closed-source applications, aimed at
-        generating a concise execution trace that can be used to support the
-        fuzz-testing activity or other analyses.
-  image: /images/bisect.png
-
-- title: ud2
-  url: https://github.com/ud2
-  desc: ud2 is a github organization where <a
-        href="http://roberto.greyhats.it">@rpaleari</a> and I will release our
-        future security-related projects, our tools, and advisories for
-        vulnerability we identify.
-  image: /images/ud2.png
-
-
-
-

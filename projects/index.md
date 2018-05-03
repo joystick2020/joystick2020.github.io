@@ -1,5 +1,5 @@
 ---
 layout: projects
 title: Projects
-excerpt: HyperDbg, FuzzTrace, ud2, CopperDroid
+excerpt: s2e, ud2, FuzzTrace, HyperDbg, CopperDroid,
 ---
