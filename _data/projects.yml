@@ -6,7 +6,7 @@
   desc: "I collaborated with the S<sup>2</sup>E project in the scope of the
         [**DARPA Cyber Grand Challenge**](http://archive.darpa.mil/cybergrandchallenge/), focusing on the development of a plugin
         for automated exploit generation. Details related to this part of the project are available [**here**](
-        https://github.com/S2E/docs/blob/master/src/Tutorials/pov.rst)."
+        https://github.com/S2E/docs/blob/master/src/Tutorials/PoV/pov.rst)."
   image: /images/galactica.png
 
 - title: ud2
